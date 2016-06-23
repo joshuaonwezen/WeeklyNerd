@@ -1,0 +1,12 @@
+body{
+    display:flex;
+    justify-content:center;
+}
+div{
+    max-width:700px;
+    margin:auto;
+}
+.list{
+    display:flex;
+        flex-direction:column;
+}
